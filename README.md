@@ -1,2 +1,2 @@
 # introtoml
-Code for CMU 10-601.
+10-601 Introduction to Machine Learning
